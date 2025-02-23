@@ -1,6 +1,8 @@
 # ☀️ Adria-Dashboard-Pup-Up- ☀️
 
-[![Adria-Dashboard-Pup-Up-](hScreenshot 23.02.2025 um 20.34.05 PM.png)]([https://www.youtube.com/watch?v=Z2pKAX-E4Xw](https://youtu.be/Z2pKAX-E4Xw))
+![Screenshot 23 02 2025 um 20 37 20 PM](https://github.com/user-attachments/assets/db0cccf5-f125-4e73-8aa4-2dbb7a28fd9a)
+
+
 ### Dashboard from this video: [https://youtu.be/Z2pKAX-E4Xw](https://youtu.be/Z2pKAX-E4Xw)
 
 
