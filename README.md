@@ -1,6 +1,6 @@
 # ☀️ Adria-Dashboard-Pup-Up- ☀️
 
-[![Adria-Dashboard-Pup-Up-](https://github.com/user-attachments/assets/c545ab17-c052-4b84-871a-43b32e56e61d)](https://www.youtube.com/watch?v=Z2pKAX-E4Xw)
+[![Adria-Dashboard-Pup-Up-](https://github.com/user-attachments/assets/c545ab17-c052-4b84-871a-43b32e56e61d)]([https://www.youtube.com/watch?v=Z2pKAX-E4Xw](https://youtu.be/Z2pKAX-E4Xw))
 ### Dashboard from this video: https://youtu.be/Z2pKAX-E4Xw
 
 
