@@ -1,8 +1,17 @@
-# Adria-Dashboard-Pup-Up-
-Dashboard from this video: https://youtu.be/Z2pKAX-E4Xw
+# ☀️ Adria-Dashboard-Pup-Up- ☀️
 
-Here is the RAW Code
+[![Adria-Dashboard-Pup-Up-](https://github.com/user-attachments/assets/c545ab17-c052-4b84-871a-43b32e56e61d)](https://www.youtube.com/watch?v=Z2pKAX-E4Xw)
+### Dashboard from this video: https://youtu.be/Z2pKAX-E4Xw
 
+
+### 📥 Installation
+
+Go to your Home Assistant Settings, open the Dashboard-Section and create a new Dashboard.
+After that click on the three dots in the top right corner, open the Raw-Configuration and copy the following Code inside.
+
+#### Here is the RAW Code
+
+```yaml
 kiosk_mode:
   mobile_settings:
     hide_header: true
@@ -2406,3 +2415,4 @@ views:
     layout:
       width: 1
       max_cols: 1
+```
