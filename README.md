@@ -5,6 +5,17 @@
 
 ### Dashboard von diesem Video: [https://youtu.be/Z2pKAX-E4Xw](https://youtu.be/Z2pKAX-E4Xw)
 
+### Eingesetzte Repositories
+Bar Card - https://github.com/custom-cards/bar-card
+Bubble Card - https://github.com/Clooos/Bubble-Card
+Button Card - https://github.com/custom-cards/button-card
+Deutscher Wetterdienst - https://github.com/FL550/dwd_weather
+Kiosk Mode - https://github.com/NemesisRE/kiosk-mode
+Mini Graph Card - https://github.com/kalkih/mini-graph-card
+Mushroom - https://github.com/piitaya/lovelace-mushroom
+Simple Weather Card - https://github.com/kalkih/simple-weather-card
+Weather Chart Card - https://github.com/mlamberts78/weather-chart-card
+Weather Radar Card - https://github.com/Makin-Things/weather-radar-card
 
 ### Mushroom Chips
 
