@@ -174,19 +174,3 @@ cards:
       - entity: sensor.DeineBatterie2
       - entity: sensor.DeineBatterie3
 ``
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
