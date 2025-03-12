@@ -14,11 +14,19 @@ Button Card - https://github.com/custom-cards/button-card
 
 Deutscher Wetterdienst - https://github.com/FL550/dwd_weather
 
+Flower Card - https://github.com/Olen/lovelace-flower-card
+
+Home Assistant Plant - https://github.com/Olen/homeassistant-plant
+
 Kiosk Mode - https://github.com/NemesisRE/kiosk-mode
 
 Mini Graph Card - https://github.com/kalkih/mini-graph-card
 
 Mushroom - https://github.com/piitaya/lovelace-mushroom
+
+OpenPlantbook - https://github.com/Olen/home-assistant-openplantbook
+
+Power Flow Card Plus - https://github.com/flixlix/power-flow-card-plus
 
 Simple Weather Card - https://github.com/kalkih/simple-weather-card
 
