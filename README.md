@@ -173,4 +173,11 @@ cards:
       - entity: sensor.DeineBatterie1
       - entity: sensor.DeineBatterie2
       - entity: sensor.DeineBatterie3
-``
+```
+
+### Kiosk Mode auf dem Smartphone
+```
+kiosk_mode:
+  mobile_settings:
+    hide_header: true
+```
