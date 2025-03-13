@@ -1,4 +1,4 @@
-# ☀️ Adria-Dashboard-Pop-Up ☀️
+# ☀️ Adria Dashboard Pop Up ☀️
 
 ![Screenshot 23 02 2025 um 20 37 20 PM](https://github.com/user-attachments/assets/db0cccf5-f125-4e73-8aa4-2dbb7a28fd9a)
 
